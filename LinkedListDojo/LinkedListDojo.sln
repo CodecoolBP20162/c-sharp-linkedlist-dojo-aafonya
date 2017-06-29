@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListDojo", "LinkedListDojo\LinkedListDojo.csproj", "{3E1512C2-8466-4D9E-AE22-5F4A48572271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListDojoTests", "LinkedListDojoTests\LinkedListDojoTests.csproj", "{B77793E5-723F-449A-BD72-CDD88EAD08BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E1512C2-8466-4D9E-AE22-5F4A48572271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1512C2-8466-4D9E-AE22-5F4A48572271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1512C2-8466-4D9E-AE22-5F4A48572271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1512C2-8466-4D9E-AE22-5F4A48572271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B77793E5-723F-449A-BD72-CDD88EAD08BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77793E5-723F-449A-BD72-CDD88EAD08BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77793E5-723F-449A-BD72-CDD88EAD08BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77793E5-723F-449A-BD72-CDD88EAD08BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
